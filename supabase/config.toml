@@ -1,0 +1,4 @@
+project_id = "mgejuaugblajttnbsbub"
+
+[functions.friday-chat]
+verify_jwt = false
